@@ -1,4 +1,6 @@
 hello and welcome!
 trying to learn git..
 ...
+branching..
 creating conflict
+resolving conflict
